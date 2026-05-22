@@ -1,0 +1,5 @@
+satyam,24
+aadya,3
+nitya,7
+ishan,2
+nimita,22

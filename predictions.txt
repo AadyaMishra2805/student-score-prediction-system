@@ -1,0 +1,5 @@
+satyam: pass
+aadya: fail
+nitya: pass
+ishan: fail
+nimita: pass
